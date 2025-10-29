@@ -16,6 +16,9 @@ repo_part: "Grove_Magnetic_Switch"
 product_url: "https://wiki.seeedstudio.com/Grove-Magnetic_Switch/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Magnetic_Switch.git"
 embedded_example_file: "examples/Grove_Magnetic_Switch_minimal/Grove_Magnetic_Switch_minimal.ino"
+title: 'Magnetschalter'
+status: 'active'
+difficulty: 'advanced'
 ---
 
 
